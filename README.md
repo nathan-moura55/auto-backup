@@ -10,14 +10,14 @@ Este projeto realiza backups automáticos de uma pasta local, compacta os arquiv
 
 ## Estrutura do Projeto
 
-autoBackup/ \n
-├── auto.py \n
-├── .env \n
-├── .gitignore \n
-├── README.md \n
-├── secrets/ \n
-│ └── credentials.json \n
-└── backups/ \n
+autoBackup/
+├── auto.py
+├── .env
+├── .gitignore
+├── README.md
+├── secrets/
+│   └── credentials.json
+└── backups/
 
 ## Requisitos
 
