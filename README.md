@@ -10,14 +10,14 @@ Este projeto realiza backups automáticos de uma pasta local, compacta os arquiv
 
 ## Estrutura do Projeto
 
-autoBackup/
-├── auto.py
-├── .env
-├── .gitignore
-├── README.md
-├── secrets/
-│ └── credentials.json
-└── backups/
+autoBackup/ \n
+├── auto.py \n
+├── .env \n
+├── .gitignore \n
+├── README.md \n
+├── secrets/ \n
+│ └── credentials.json \n
+└── backups/ \n
 
 ## Requisitos
 
@@ -32,6 +32,7 @@ autoBackup/
    
 ```bash
 git clone https://github.com/seu-usuario/auto-backup.git
+
 cd auto-backup
 ```
 
@@ -39,6 +40,7 @@ cd auto-backup
 
 ```bash
 python -m venv venv
+
 venv\Scripts\activate  # Windows
 ```
 
