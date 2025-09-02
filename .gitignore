@@ -1,0 +1,22 @@
+# Credenciais do Google
+credentials.json
+token.json
+secrets/
+
+# Arquivos de backup
+*.zip
+backups/
+
+# Configurações locais
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+
+# Configurações de IDEs
+.vscode/
+.idea/
